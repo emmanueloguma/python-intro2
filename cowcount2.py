@@ -4,9 +4,9 @@
 animal=["Yes",  "Yes", "Yes", "No","Yes", 
         "Yes", "Yes","Yes","Yes", "No",
         "Yes", "No", "Yes", "No",   "No", 
-        "Yes","Yes","No","Yes", "Yes", "Yes",
+        "Yes","Yes", "Yes", "Yes", "Yes",
         "No",  "No",  "Yes","Yes", "No",
-        "Yes","Yes","Yes","Yes"]
+        "Yes","Yes","Yes","Yes","No"]
 
 
 cowcount=0
