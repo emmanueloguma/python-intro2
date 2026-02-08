@@ -4,4 +4,10 @@
 # find the simple interest and print it out
 #in another python function
 def loan():
-    
+    print("enter the principal")
+    principal=float(input())
+    time=2
+    rate=5
+    SI=principal*time*rate/100
+    print(SI)
+loan()
