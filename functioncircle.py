@@ -2,7 +2,7 @@
 # Write a python code that will calculate the 
 # double the area of the circle and the one third of the 
 # circumference of the circle. 
-# Add the two results together and print tit out
+# Add the two results together and print it out
 
 def calculatecircle():
     r=5

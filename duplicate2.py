@@ -9,5 +9,5 @@ for item in listme2:
         duplicateitem.append(item)
     else:
         continue
-print("duplicate items found biut not stored anyway")
+print("duplicate items found but not stored anyway")
 print(duplicateitem)
